@@ -12,12 +12,9 @@ descript
 //—————————————————————————————— SAKURA SURFACES ——————————————————————————————
 
 //neutral
-surface0
+surface0-9
 {
 	element0,overlay,surface0.png,0,0
-	
-	collision0,176,92,320,136,head
-	collision1,220,33,287,90,ahoge
 	
 	animation0.interval,always
 	animation0.pattern0,overlay,100,0,0,0
