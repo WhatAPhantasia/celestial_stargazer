@@ -1,0 +1,12 @@
+charset,UTF-8
+version,1
+option,DisableNoDefineSurfaces
+
+group,Skra
+{
+	0,Normal
+}
+group,Kero
+{
+	10,Null
+}

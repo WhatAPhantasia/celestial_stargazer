@@ -1,0 +1,28 @@
+descript
+{
+	version,1
+}
+//animation#.interval,method
+//animation#.pattern#,method,surface,pause,X,Y
+
+//—————————————————————————————— surface___.png number ranges ——————————————————————————————
+
+//perhaps. for later
+
+//—————————————————————————————— SAKURA SURFACES ——————————————————————————————
+
+//neutral
+surface0
+{
+	element0,overlay,surface0.png,0,0
+	
+	collision0,176,92,320,136,head
+	collision1,220,33,287,90,ahoge
+	
+	animation0.interval,always
+	animation0.pattern0,overlay,100,0,0,0
+	animation0.pattern1,overlay,101,1000,0,0
+	animation0.pattern2,overlay,102,500,0,0
+	animation0.pattern3,overlay,101,500,0,0
+	animation0.pattern4,overlay,100,500,0,0
+}
